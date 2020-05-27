@@ -1,0 +1,6 @@
+mini mock formulae
+
+adults:this=round(children*2.5,0)
+elderly:this=round(elderly*0.3,0)
+food_ordered:this=round((children/15)+(adults/8)+(elderly/15),0)+random(0,20)
+food_wasted:this=round(random(food_ordered*0.1,food_ordered*0.15),0)

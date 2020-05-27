@@ -1,0 +1,16 @@
+rmse for neurons predicting amount of rice to be ordered:
+neuron 		rmse
+1		6.72
+2		6.73
+3		7.32
+4		7.02
+5		7.43
+
+
+rmse for neurons predicting rice wastage:
+neuron		rmse
+1		1.11
+2		2.36
+3		3.50
+4		1.07
+5		2.93
